@@ -1,0 +1,1 @@
+Esse é um projeto de landing page do Iphone 13 com JavaScript.
